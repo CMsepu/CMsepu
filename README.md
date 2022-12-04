@@ -37,5 +37,5 @@
 # About me: 👀
 ###### **->** learning c++
 ###### **->** will post some random shit
-###### **->** discord contact: msepu#5588
+###### **->** discord contact: msepu#5588 (fell free to contact me to give some advices or ask questions)
 ###### **->** c++ gurom 
